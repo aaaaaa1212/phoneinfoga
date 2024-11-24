@@ -1,3 +1,4 @@
+./phoneinfoga version
 # Go module usage
 
 You can easily use scanners in your own Golang script. You can find [Go documentation here](https://pkg.go.dev/github.com/sundowndev/phoneinfoga/v2).
